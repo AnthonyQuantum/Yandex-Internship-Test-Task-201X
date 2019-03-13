@@ -89,7 +89,7 @@ function TouristGuide(cards) {
 
     // Изменяем исходный массив карточек на отсортированный
     // и возвращаем текстовое описание маршрута
-    cards = sortedCards;
+    cards = sortedCards; ELM()
     return result;
 }
 
